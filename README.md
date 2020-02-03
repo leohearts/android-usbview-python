@@ -8,3 +8,7 @@ A python program which uses adb and screencap to sync your Android dispaly to de
 Python 3
 
 matplotlab
+
+Android Debug Bridge
+
+Android 4.4+ (Client)
