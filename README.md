@@ -1,3 +1,8 @@
+# *DEPRECATED*
+如果你找到了这个, 你可能需要scrcpy.
+
+> sudo apt install scrcpy
+
 # Android-usbview-python
 View Android phone's display via ADB.
 
